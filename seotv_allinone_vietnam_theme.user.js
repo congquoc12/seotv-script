@@ -9,8 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_setClipboard
-// @updateURL   https://raw.githubusercontent.com/congquoc12/seotv-script/main/seotv_allinone.user.js
-// @downloadURL https://raw.githubusercontent.com/congquoc12/seotv-script/main/seotv_allinone.user.js
+// @updateURL   https://raw.githubusercontent.com/congquoc12/seotv-script/main/seotv_allinone_vietnam_theme.user.js
+// @downloadURL https://raw.githubusercontent.com/congquoc12/seotv-script/main/seotv_allinone_vietnam_theme.user.js
 // ==/UserScript==
 
 (function () {
