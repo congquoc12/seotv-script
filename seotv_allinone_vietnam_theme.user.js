@@ -1,4 +1,4 @@
-// ==UserScript==cc
+// ==UserScript==
 // @name         🇻🇳 SEOTV TOOL - Giao Diện Việt Nam Đẹp
 // @namespace    http://tampermonkey.net/
 // @version      1.3
