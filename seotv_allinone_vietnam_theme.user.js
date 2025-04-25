@@ -36,28 +36,7 @@
 
     // Hàm kiểm tra nếu từ khóa có mặt trong phần tử
     function checkKeywords() {
-        var keywordElement = document.getElementById("traffic-keyword");
-        if (keywordElement) {
-            let content = keywordElement.textContent.trim();
-            // Kiểm tra xem nội dung có chứa bất kỳ từ khóa nào không
-            if (keywords.includes(content)) {
-                location.reload();  // Tải lại trang nếu có từ khóa
-            }
-        }
-    }
-
-    // Kiểm tra khi trang được tải
-    window.addEventListener('load', function() {
-        checkKeywords();  // Kiểm tra ngay sau khi trang được tải
-    });
-
-    // Kiểm tra lại mỗi 2 giây trong trường hợp phần tử được tải động
-    setInterval(checkKeywords, 2000);
-})();
-
-    },
-
-    "🧠 Sinh mã tự động": () => {
+        var keywordElement = document.getElementById("trafficmã tự động": () => {
 // ==UserScript==
 // @name         SEOTV MÃ
 // @namespace    Yeumoney Auto
